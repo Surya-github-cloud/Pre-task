@@ -9,7 +9,7 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from fastapi.middleware.cors import CORSMiddleware
 import os
-from analyzer_fixed import RepositoryAnalyzer
+from analyzer import RepositoryAnalyzer
 
 # Initialize FastAPI app
 app = FastAPI(
