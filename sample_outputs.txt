@@ -1,0 +1,187 @@
+═══════════════════════════════════════════════════════════════════════════
+GitHub Repository Intelligence Analyzer - Sample Analysis Results
+═══════════════════════════════════════════════════════════════════════════
+
+REPOSITORY #1: facebook/react
+───────────────────────────────────────────────────────────────────────────
+URL: https://github.com/facebook/react
+Description: A JavaScript library for building user interfaces with components
+
+ACTIVITY SCORE: 92/100 (Very Active)
+├─ Stars Contribution: 25.0 pts (215,000 stars - highly popular)
+├─ Commits Contribution: 25.0 pts (14,302 commits - heavy development)
+├─ Contributors Contribution: 25.0 pts (1,524 contributors - large community)
+└─ Issues Contribution: 17.0 pts (1,382 open issues - ongoing work)
+
+COMPLEXITY SCORE: 68/100 (Moderately Complex)
+├─ Size Contribution: 22.0 pts (546.2 MB codebase)
+├─ Language Diversity: 18.0 pts (5 languages: JavaScript, TypeScript, HTML, CSS, Makefile)
+├─ Language Sophistication: 12.0 pts (TypeScript, JavaScript combination)
+└─ Contributor Contribution: 16.0 pts (Large team = complex project)
+
+LEARNING DIFFICULTY: Advanced
+Reason: This is an advanced repository. It combines high complexity (68/100) with very active development (92/100). This project requires deep software engineering knowledge, experience with collaborative development, and ability to navigate complex codebases. Recommended for experienced developers.
+
+METRICS:
+├─ Stars: 215,000
+├─ Forks: 46,000
+├─ Open Issues: 1,382
+├─ Contributors: 1,524
+├─ Commits: 14,302
+├─ Languages: JavaScript, TypeScript, HTML, CSS, Makefile
+├─ Repository Size: 546.2 MB
+├─ Last Updated: 2026-03-17T15:30:00Z
+└─ Is Fork: No
+
+RECOMMENDATION: 
+✓ Highly popular - great for your resume | ✓ Very active with rapid development | ✓ Large community of 1,524+ contributors | ✓ Extensive open issues available for contributions
+
+───────────────────────────────────────────────────────────────────────────
+
+REPOSITORY #2: tensorflow/tensorflow
+───────────────────────────────────────────────────────────────────────────
+URL: https://github.com/tensorflow/tensorflow
+Description: An open source machine learning framework
+
+ACTIVITY SCORE: 88/100 (Very Active)
+├─ Stars Contribution: 25.0 pts (185,000 stars - highly popular)
+├─ Commits Contribution: 25.0 pts (32,000 commits - heavy development)
+├─ Contributors Contribution: 25.0 pts (3,124 contributors - very large community)
+└─ Issues Contribution: 13.0 pts (2,890 open issues - active development)
+
+COMPLEXITY SCORE: 82/100 (Very Complex)
+├─ Size Contribution: 25.0 pts (2,867.2 MB - very large codebase)
+├─ Language Diversity: 30.0 pts (12 languages - highly polyglot)
+├─ Language Sophistication: 15.0 pts (C++, Python, CUDA, Java complexity)
+└─ Contributor Contribution: 12.0 pts (Very large team)
+
+LEARNING DIFFICULTY: Advanced
+Reason: This is an advanced repository due to its high complexity (82/100). The codebase has significant architectural sophistication with machine learning systems. Requires strong systems programming knowledge and deep understanding of ML concepts.
+
+METRICS:
+├─ Stars: 185,000
+├─ Forks: 74,000
+├─ Open Issues: 2,890
+├─ Contributors: 3,124
+├─ Commits: 32,000
+├─ Languages: C++, Python, CUDA, Java, Go, JavaScript, TypeScript, CMake, Shell, Bazel, Skylark, Protocol Buffer
+├─ Repository Size: 2867.2 MB
+├─ Last Updated: 2026-03-17T14:45:00Z
+└─ Is Fork: No
+
+RECOMMENDATION:
+✓ Leading ML framework - essential for AI/ML careers | ✓ Very complex system for learning advanced concepts | ✓ Largest community (3,100+ contributors) | ✓ Continuous development in cutting-edge field
+
+───────────────────────────────────────────────────────────────────────────
+
+REPOSITORY #3: microsoft/vscode
+───────────────────────────────────────────────────────────────────────────
+URL: https://github.com/microsoft/vscode
+Description: Visual Studio Code editor
+
+ACTIVITY SCORE: 85/100 (Very Active)
+├─ Stars Contribution: 25.0 pts (164,000 stars - highly popular)
+├─ Commits Contribution: 23.0 pts (28,500 commits - heavy development)
+├─ Contributors Contribution: 22.0 pts (2,245 contributors - large community)
+└─ Issues Contribution: 15.0 pts (5,623 open issues - active development)
+
+COMPLEXITY SCORE: 75/100 (Very Complex)
+├─ Size Contribution: 24.0 pts (1,228.2 MB)
+├─ Language Diversity: 21.0 pts (7 languages - diverse)
+├─ Language Sophistication: 14.0 pts (TypeScript-heavy, C++ bindings)
+└─ Contributor Contribution: 16.0 pts (Large development team)
+
+LEARNING DIFFICULTY: Advanced
+Reason: This is an advanced repository due to its high complexity (75/100). VS Code is a sophisticated editor with complex plugin systems, build processes, and platform integration. Requires understanding of frontend architecture, electron, and build systems.
+
+METRICS:
+├─ Stars: 164,000
+├─ Forks: 29,000
+├─ Open Issues: 5,623
+├─ Contributors: 2,245
+├─ Commits: 28,500
+├─ Languages: TypeScript, JavaScript, Python, C++, CSS, JSON, Shell
+├─ Repository Size: 1228.2 MB
+├─ Last Updated: 2026-03-17T16:00:00Z
+└─ Is Fork: No
+
+RECOMMENDATION:
+✓ Most popular code editor globally | ✓ Excellent for learning modern development tools | ✓ TypeScript-heavy (great for TypeScript learners) | ✓ 5,600+ open issues available
+
+───────────────────────────────────────────────────────────────────────────
+
+REPOSITORY #4: vuejs/vue
+───────────────────────────────────────────────────────────────────────────
+URL: https://github.com/vuejs/vue
+Description: Progressive JavaScript framework
+
+ACTIVITY SCORE: 82/100 (Very Active)
+├─ Stars Contribution: 25.0 pts (207,000 stars - highly popular)
+├─ Commits Contribution: 18.0 pts (4,500 commits - active development)
+├─ Contributors Contribution: 21.0 pts (435 contributors - good community)
+└─ Issues Contribution: 18.0 pts (345 open issues - moderately active)
+
+COMPLEXITY SCORE: 52/100 (Moderately Complex)
+├─ Size Contribution: 18.0 pts (280.5 MB)
+├─ Language Diversity: 12.0 pts (4 languages - reasonable diversity)
+├─ Language Sophistication: 10.0 pts (TypeScript + JavaScript)
+└─ Contributor Contribution: 12.0 pts (Moderate team)
+
+LEARNING DIFFICULTY: Intermediate
+Reason: This is an intermediate-level repository. It has moderate complexity (52/100) and very good activity level (82/100). Suitable for developers with some experience. You should understand JavaScript fundamentals and be comfortable with modern frontend development patterns.
+
+METRICS:
+├─ Stars: 207,000
+├─ Forks: 33,000
+├─ Open Issues: 345
+├─ Contributors: 435
+├─ Commits: 4,500
+├─ Languages: TypeScript, JavaScript, HTML, CSS
+├─ Repository Size: 280.5 MB
+├─ Last Update: 2026-03-17T14:30:00Z
+└─ Is Fork: No
+
+RECOMMENDATION:
+✓ Most approachable modern framework | ✓ Great for intermediate developers | ✓ Strong community support | ✓ Good entry point to advanced frontend concepts
+
+───────────────────────────────────────────────────────────────────────────
+
+REPOSITORY #5: google/material-design-lite
+───────────────────────────────────────────────────────────────────────────
+URL: https://github.com/google/material-design-lite
+Description: Material Design Lite - CSS framework
+
+ACTIVITY SCORE: 45/100 (Moderately Active)
+├─ Stars Contribution: 16.0 pts (32,000 stars - popular)
+├─ Commits Contribution: 0.6 pts (1,200 commits - slow development)
+├─ Contributors Contribution: 2.3 pts (187 contributors - small team)
+└─ Issues Contribution: 1.2 pts (250 open issues - minimal activity)
+
+COMPLEXITY SCORE: 35/100 (Relatively Simple)
+├─ Size Contribution: 7.2 pts (145.5 MB)
+├─ Language Diversity: 9.0 pts (3 languages - simple)
+├─ Language Sophistication: 1.0 pts (HTML, CSS, JavaScript)
+└─ Contributor Contribution: 7.5 pts (Small team)
+
+LEARNING DIFFICULTY: Beginner
+Reason: This is a great repository for beginners. It has a relatively simple codebase (35/100 complexity) and moderate activity level (45/100). The codebase is manageable and the pace of changes is not overwhelming, making it ideal for learning CSS, Material Design, and making your first contributions to open source.
+
+METRICS:
+├─ Stars: 32,000
+├─ Forks: 6,200
+├─ Open Issues: 250
+├─ Contributors: 187
+├─ Commits: 1,200
+├─ Languages: HTML, CSS, JavaScript
+├─ Repository Size: 145.5 MB
+├─ Last Updated: 2026-03-17T12:00:00Z
+└─ Is Fork: No
+
+RECOMMENDATION:
+✓ Excellent for CSS and design learning | ✓ Beginner-friendly codebase | ✓ Google-backed Material Design standards | ✓ Perfect for first open source contribution
+
+═══════════════════════════════════════════════════════════════════════════
+Analysis Summary: 5 repositories analyzed successfully
+Generated: 2026-03-17 16:00:00 UTC
+═══════════════════════════════════════════════════════════════════════════
+
